@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  My first ever Insta-like website. (Optional)
+  My first ever Insta-like website.
 </div>
 
 <br />
