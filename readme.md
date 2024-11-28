@@ -113,6 +113,7 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
+|-|-|-|
 | WD-Template Project | This is the template I used for my project | https://github.com/zyx-0314 |
 | Instagram Profile Page | Inspired and how to code the profile insta page. | https://codepen.io/railaru/pen/WNNmreV |
 | Follow Unfollow Toggle Button | For follow and unfollow toggle button | https://codepen.io/Onejohi/pen/MvRPYM |
