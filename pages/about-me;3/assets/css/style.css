@@ -1,0 +1,152 @@
+*{
+    margin: 10px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background-color: #dcb9eb;
+}
+
+.personal-info{
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    width:max-content;
+    grid-column-gap: 25px;
+    margin-inline: 3px;
+
+}
+.column-left {
+    display: block;
+    flex-wrap: nowrap;
+    margin-right: 450px;
+}
+.mi-profile {
+    width: 180px;
+    height: 245px;
+    border-radius: 24px;
+    border-style:solid;
+    border-width: 4px;
+    border-color: #58447c;
+}
+.fullname-nd-others {
+    padding-top:2px;
+    margin-left: -20px;
+}
+.fullname-nd-others-firstn{
+    margin-top: 3px;
+    font-size: 30px;
+}
+.fullname-nd-others-surname{
+    margin-top: -20px;
+    margin-left: 7px;;
+    font-size: 45px;
+    color:#58447c;
+    font-weight:800;
+}
+.fullname-nd-others-nickname {
+    margin-top: 7px;
+    font-size: 22px;
+}
+.obj{
+    margin-top: -120px;
+    margin-left: 220px;
+    margin-right: 450px;
+    font-size: 20px;
+}
+.info {
+    margin-top: 20px;
+    margin-left: 230px;
+}
+.aboutmeee{
+    margin-top: 20px;
+}
+.column-right-cont{
+    margin-top: 60px;
+    margin-left: 40px;
+    padding-block: 100px;
+    border-radius: 24px;
+    background-color: #58447c;
+    width: 186px;
+}
+.skills-of-mine {
+    position: absolute;
+    width: 435px;
+    top: 33px;
+    left: 63.5%;
+    background-color: #58447c;
+    color: #e8ffac;
+    padding: 5px;
+    padding-bottom: 10px;
+    margin: 10px auto;
+    border-radius: 12px;
+}
+.lists-of-som{
+    margin-top: 15px;
+    margin-left: 3px;
+    margin-bottom: 20px;
+}
+.experience-hshs{
+    margin-left: 12px;
+}
+.experience-keme{
+    margin-top: 15px;
+    margin-left: 35px;
+    line-height: 25px;
+}
+.contacts-n-else{
+    width: 180px;
+    margin-top: 30px;
+    background-color: #58447c;
+    color: #e8ffac;
+    padding: 5px;
+    margin-left: 35px;
+    border-radius: 12px;
+    font-size: 13px;
+    line-height: 25px;
+}
+.contacts-t{
+    margin-left: 3px;
+    font-size: 17px;
+}
+.contacts-ko{
+    margin-left: 23px;
+}
+.loc {
+    margin-left: 25px;
+}
+a{
+    color:#e8ffac;
+    text-decoration: none;
+}
+a:hover{
+    color: #dcb9eb;
+    text-decoration: underline;
+}
+.educ{
+    margin-top: -180px;
+    margin-left: 230px;
+    margin-right: 500px;
+    font-size: 20px;
+}
+.educ-places{
+    margin-top: 20px;
+    margin-left: 230px;
+    margin-right: 450px;
+    line-height: 25px;
+}
+.go-back{
+    margin-top: -70px;
+}
+.go-back-btn {
+    background-color: #6f5783;
+    color:#e8ffac;
+    font-size: 16px;
+    width: 435px;
+    height: 40px;
+    border-radius: 12px;
+    margin-left: 64%;
+}
+.go-back-btn:hover {
+    color:#dcb9eb
+}
