@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  My first ever Insta-like website.
+  My first ever Insta-like website. 
 </div>
 
 <br />
@@ -32,15 +32,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview"> The project is about making your own website and linked your artworks there. The purpose of this project helps to familiarize about basic website designing using multipage website. Used tool: HTML and CSS.</a>
+      <a href="#overview"> Overview </a>
       <ol>
         <li>
-          <a href="#key-components"> Multipage website. Basic Parallax Transition and Transsactional.</a>
+          <a href="#key-components"> Key Components </a>
         </li>
         <li>
-          <a href="#technology">(https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
-          <a href="#technology">(https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-          </a>
+          <a href="#technology"> Technology </a>
         </li>
       </ol>
     </li>
@@ -48,12 +46,7 @@
       <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
     </li>
     <li>
-      <a href="#resources">| WD-Template Project | This is the template I used for my project | https://github.com/zyx-0314 |
-      <br>
-      | Instagram Profile Page | Inspired and how to code the profile insta page. | https://codepen.io/railaru/pen/WNNmreV |
-      </a>
-      <br>
-      | Follow Unfollow Toggle Button | For follow and unfollow toggle button | https://codepen.io/Onejohi/pen/MvRPYM |
+      <a href="#resources"> Resources. </a>
     </li>
   </ol>
 </details>
@@ -67,23 +60,20 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project is about making your own website and linked your artworks there. 
+- The purpose of this project helps to familiarize about basic website designing
+- Multipage/single page website.
+- HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -123,5 +113,6 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| WD-Template Project | This is the template I used for my project | https://github.com/zyx-0314 |
+| Instagram Profile Page | Inspired and how to code the profile insta page. | https://codepen.io/railaru/pen/WNNmreV |
+| Follow Unfollow Toggle Button | For follow and unfollow toggle button | https://codepen.io/Onejohi/pen/MvRPYM |
