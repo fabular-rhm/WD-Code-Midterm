@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/fabular-rhm">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/DINO-LOGO.png" alt="" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-MIDTERM</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  My first ever Insta-like website. (Optional)
 </div>
 
 <br />
@@ -32,13 +32,15 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#overview"> The project is about making your own website and linked your artworks there. The purpose of this project helps to familiarize about basic website designing using multipage website. Used tool: HTML and CSS.</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#key-components"> Multipage website. Basic Parallax Transition and Transsactional.</a>
         </li>
         <li>
-          <a href="#technology">Technology</a>
+          <a href="#technology">(https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+          <a href="#technology">(https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+          </a>
         </li>
       </ol>
     </li>
@@ -46,7 +48,12 @@
       <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#resources">| WD-Template Project | This is the template I used for my project | https://github.com/zyx-0314 |
+      <br>
+      | Instagram Profile Page | Inspired and how to code the profile insta page. | https://codepen.io/railaru/pen/WNNmreV |
+      </a>
+      <br>
+      | Follow Unfollow Toggle Button | For follow and unfollow toggle button | https://codepen.io/Onejohi/pen/MvRPYM |
     </li>
   </ol>
 </details>
