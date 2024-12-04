@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![][https://visit-counter.vercel.app/counter.png?page=fabular-rhm/WD-Code-Midterm]
+![](https://visit-counter.vercel.app/counter.png?page=fabular-rhm/WD-Code-Midterm)
 [wakatime]<a href="https://wakatime.com/badge/user/3ea6918d-510a-4a52-8cbd-ffef9850b08d/project/9115ad8d-6a98-482b-9d4e-d0e2c8902aee"><img src="https://wakatime.com/badge/user/3ea6918d-510a-4a52-8cbd-ffef9850b08d/project/9115ad8d-6a98-482b-9d4e-d0e2c8902aee.svg" alt="wakatime"></a>
 ---
 
